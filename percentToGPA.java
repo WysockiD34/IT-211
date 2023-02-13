@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class gpaPercent {
+class percentToGPA {
     public static void main(String[] args) {
         Double input;
 
